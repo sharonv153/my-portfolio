@@ -1,2 +1,2 @@
 # my-portfolio
-My digitial marketing portfolio
+My marketing analyst portfolio
